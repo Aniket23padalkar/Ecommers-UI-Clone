@@ -1,15 +1,5 @@
 # Ecommerce UI Clone
 
-## Live Demo
-
-[Click to view]()
-
-Note: This is a **UI clone for learning purposes**.
-
--   You can run the project **locally** by downloading the files and opening `index.html`.
--   If you use the live link, **Chrome/Edge may show a warning** because it mimics a real brand (Ecommerce).
--   This site does **not collect any personal information**.
-
 ## Description
 
 This was my very first project, where I focused on replicating the famous Ecommerce UI. At that time, I didn’t know much about responsive design, so I used `px` (pixels) everywhere. The goal was to practice structuring a complex layout and get a real feel of building a web page from scratch.
