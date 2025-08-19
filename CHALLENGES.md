@@ -1,6 +1,6 @@
 # Challenges I Faced
 
--   At first, I followed tutorials, but I noticed their UI clones lacked proper spacing. By inspecting the real Amazon site, I realized that to get proper spacing, everything needs to be divided into clear sections and boxes.
+-   At first, I followed tutorials, but I noticed their UI clones lacked proper spacing. By inspecting the real famous Ecommers site, I realized that to get proper spacing, everything needs to be divided into clear sections and boxes.
 
 -   I used margin everywhere in the beginning, but later learned that relying too much on horizontal margins can break layouts when making them responsive.
 
